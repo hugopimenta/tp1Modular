@@ -1,9 +1,9 @@
-package com.hugo.olimpiadas.sports;
+package com.modular.olimpiadas.sports;
 
 import java.util.Collections;
 import java.util.List;
 
-import com.hugo.olimpiadas.athlete.Athlete;
+import com.modular.olimpiadas.athlete.Athlete;
 
 /**
  * Esporte.

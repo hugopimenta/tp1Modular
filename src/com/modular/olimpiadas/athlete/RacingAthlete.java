@@ -1,6 +1,11 @@
-package com.hugo.olimpiadas.athlete;
+package com.modular.olimpiadas.athlete;
 
-public class SwimmingAthlete extends Athlete{
+
+/**
+ * Atleta de corrida.
+ * @author Hugo Pimenta
+ */
+public class RacingAthlete extends Athlete {
 
 	@Override
 	public double getFinalResult() {
@@ -17,5 +22,5 @@ public class SwimmingAthlete extends Athlete{
 	public int compareTo(Athlete o) {
 		return this.getFinalResult() > o.getFinalResult() ? -1 : 1;
 	}
-
+	
 }

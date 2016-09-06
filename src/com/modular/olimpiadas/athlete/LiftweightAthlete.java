@@ -1,4 +1,4 @@
-package com.hugo.olimpiadas.athlete;
+package com.modular.olimpiadas.athlete;
 
 public class LiftweightAthlete extends Athlete {
 

@@ -1,4 +1,4 @@
-package com.hugo.olimpiadas.country;
+package com.modular.olimpiadas.country;
 
 /**
  * País participante.

@@ -1,4 +1,4 @@
-package com.hugo.olimpiadas;
+package com.modular.olimpiadas;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -6,14 +6,14 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-import com.hugo.olimpiadas.athlete.ArtisticGymnasticsAthlete;
-import com.hugo.olimpiadas.athlete.Athlete;
-import com.hugo.olimpiadas.athlete.HighJumpAthlete;
-import com.hugo.olimpiadas.athlete.LiftweightAthlete;
-import com.hugo.olimpiadas.athlete.RacingAthlete;
-import com.hugo.olimpiadas.athlete.SwimmingAthlete;
-import com.hugo.olimpiadas.country.Country;
-import com.hugo.olimpiadas.sports.Sport;
+import com.modular.olimpiadas.athlete.ArtisticGymnasticsAthlete;
+import com.modular.olimpiadas.athlete.Athlete;
+import com.modular.olimpiadas.athlete.HighJumpAthlete;
+import com.modular.olimpiadas.athlete.LiftweightAthlete;
+import com.modular.olimpiadas.athlete.RacingAthlete;
+import com.modular.olimpiadas.athlete.SwimmingAthlete;
+import com.modular.olimpiadas.country.Country;
+import com.modular.olimpiadas.sports.Sport;
 
 /**
  * Olimpiada.

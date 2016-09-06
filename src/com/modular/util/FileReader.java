@@ -1,4 +1,4 @@
-package com.hugo.util;
+package com.modular.util;
 
 public final class FileReader {
 	

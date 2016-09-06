@@ -1,4 +1,4 @@
-package com.hugo.olimpiadas.athlete;
+package com.modular.olimpiadas.athlete;
 
 /**
  * Atleta de ginastica olimpica. 
