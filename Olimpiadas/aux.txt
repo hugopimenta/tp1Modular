@@ -1,0 +1,10 @@
+for(Athlete a:athleteList){
+			
+			if(a.getResults().size() == 3)
+			{
+				System.out.println("id:" + a.getId() + " idP:" + a.getCountryId() + " idS:" + a.getSportId() 
+				+ " name:" + a.getName() + " r:" + a.getResults().get(0) + " | " + a.getResults().get(1) + " | "
+				+ a.getResults().get(2) + " | " + a.getResults().get(2));
+			}
+						
+		}
